@@ -3,7 +3,7 @@ using namespace std;
 class A
 {public:
 	void yeah()
-	{cout<<"hello";
+	{cout<<"hello world";
 	}
 };
 int main()
